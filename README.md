@@ -1,5 +1,3 @@
-<>(![Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png))
-
 ### Hi there 👋, I am Juan Perez
 #### Data Scientist
 
