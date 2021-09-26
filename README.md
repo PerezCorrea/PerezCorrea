@@ -16,7 +16,7 @@ Do you want to lauch a Kickstarter campaign and you want to be sure that you get
 
 ### [Spot the Crop from the Top](https://github.com/AIMPED/NF-Capstone-Crop-Classification)
 
-![crop_fields](./pictures/fields_rgb_kepler.png)
+![crop_fields](https://github.com/AIMPED/NF-Capstone-Crop-Classification/blob/main/pictures/fields_rgb_kepler.png)
 
 This project is the competition [Radiant Earth Spot the Crop XL Challenge](https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge) on the Zindi community website. 
 
