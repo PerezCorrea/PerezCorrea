@@ -12,13 +12,11 @@ I am a curious, hard-working and fast learning person fascinated by the power of
 
 [project](https://github.com/PerezCorrea/EDA_House_Prices) 
 
-### [Kickstarter]
+### Kickstarter
 
 Do you want to lauch a Kickstarter campaign and you want to be sure that you get founded? Then check out this [project](https://github.com/Octodon-D/kickstarter_project) where we help you understand which factors are the most revelevant!
 
 ### Spot the Crop from the Top
-
-![crop_fields](https://github.com/AIMPED/NF-Capstone-Crop-Classification/blob/main/pictures/fields_rgb_kepler.png)
 
 This [project](https://github.com/AIMPED/NF-Capstone-Crop-Classification) is the competition [Radiant Earth Spot the Crop XL Challenge](https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge) on the Zindi community website. 
 
