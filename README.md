@@ -10,7 +10,7 @@ I am a curious, hard-working and fast learning person fascinated by the power of
 
 ### King County Housing Prices
 
-[project](https://github.com/PerezCorrea/EDA_House_Prices) 
+Predicting house prizes is a classic starting [project](https://github.com/PerezCorrea/EDA_House_Prices). 
 
 ### Kickstarter
 
