@@ -6,6 +6,7 @@ In 2021 I decided to pivot to the emerging field of artificial intelligence and 
 In addition, my background as an Aerospace Engineer has allowed me to develop a solid skills in creativity, teamwork, and analytics.
 
 **Skills:** Time Series Forecasting / Generative AI / NLP / Prompting
+
 **Tech Stack:** SQL / Python / Numpy / Pandas / matplotlib / Seaborn / scikit-learn / Tensor Flow / Keras /Apache Airflow /Power BI / Azure / Docker
 
 ## Projects
