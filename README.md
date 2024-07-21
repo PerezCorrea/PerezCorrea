@@ -27,6 +27,8 @@ The project aims to:
 2. Data Cleaning: Process and clean the collected data.
 3. Visualization: Create an interactive network visualization to display the transfers.
 
+![Transfer Network](https://github.com/PerezCorrea/football_transfer_analysis/blob/main/images/Transfer_Network_2023.png)
+
 ## Spot the Crop from the Top
 
 This [project](https://github.com/AIMPED/NF-Capstone-Crop-Classification) is the competition [Radiant Earth Spot the Crop XL Challenge](https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge) on the Zindi community website. 
