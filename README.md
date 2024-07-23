@@ -26,7 +26,8 @@ This repository features a [Project](https://github.com/PerezCorrea/ChristmasMov
 ### Tutorial Video
 
 For a step-by-step guide on how this project was implemented, check out the tutorial video.
-[![tutorial video](https://github.com/PerezCorrea/ChristmasMoviesApp/blob/main/img/app.png) (https://www.youtube.com/watch?v=oIRPDey-cX4)]
+
+[![tutorial video](https://github.com/PerezCorrea/ChristmasMoviesApp/blob/main/img/app.png)] (https://www.youtube.com/watch?v=oIRPDey-cX4)
 
 
 ## Fooball transfrer network visualization
