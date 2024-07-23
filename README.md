@@ -11,10 +11,22 @@ In addition, my background as an Aerospace Engineer has allowed me to develop a 
 
 # Projects
 
-## Christmas movies recommendation app
+## Christmas Film Recommender App 🎬
 
-*WIP*
-[Project](https://github.com/PerezCorrea/ChristmasMoviesApp)
+This repository features a [Project](https://github.com/PerezCorrea/ChristmasMoviesApp) created as part of a series of LinkedIn posts for BD-A's Advent Calendar. The goal of this project is to build an app that recommends films based on user prompts. These are the project's key components:
+
+1. **Data Cleaning**: Clean and preprocess the film dataset to ensure high-quality data for the search.
+
+2. **Creation of Embeddings**: Generate embeddings for film titles and descriptions.These embeddings capture the semantic meaning of the text, allowing for more accurate recommendations.
+
+3. **Vector Database Handling**: Utilize a Vector Database to store and manage the embeddings efficiently.Perform similarity searches within the database to find the best film matches based on user prompts.
+
+4. **MS Power Apps Integration**: Develop a user-friendly interface using Power Apps.Integrate the recommendation engine into the app, allowing users to input prompts and receive film recommendations seamlessly.
+
+### Tutorial Video
+
+For a step-by-step guide on how this project was implemented, check out the [tutorial video](#) (https://www.youtube.com/watch?v=oIRPDey-cX4).
+
 
 ## Fooball transfrer network visualization
 
