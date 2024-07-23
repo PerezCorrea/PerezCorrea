@@ -11,7 +11,7 @@ In addition, my background as an Aerospace Engineer has allowed me to develop a 
 
 # Projects
 
-## Christmas Film Recommender App 🎬
+## Christmas Movies Recommendation App 🎬
 
 This repository features a [Project](https://github.com/PerezCorrea/ChristmasMoviesApp) created as part of a series of LinkedIn posts for BD-A's Advent Calendar. The goal of this project is to build an app that recommends films based on user prompts. These are the project's key components:
 
